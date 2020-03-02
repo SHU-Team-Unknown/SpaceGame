@@ -10,4 +10,6 @@
 
 -Nathans Git Bash video #2: https://www.youtube.com/watch?v=YhMNvenbFGA
 
+-GitHub Desktop (alternet to Git Bash): https://desktop.github.com/
+
 -If you are using AMD CPU: https://developer.android.com/studio/run/emulator-acceleration#choose-windows-hypervisor
