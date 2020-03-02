@@ -6,6 +6,8 @@
 
 -Android stuido (Download): https://developer.android.com/studio
 
+-Git Bash: https://gitforwindows.org/
+
 -Nathans Git Bash video #1: https://www.youtube.com/watch?v=DFQjIoMLZzA
 
 -Nathans Git Bash video #2: https://www.youtube.com/watch?v=YhMNvenbFGA
