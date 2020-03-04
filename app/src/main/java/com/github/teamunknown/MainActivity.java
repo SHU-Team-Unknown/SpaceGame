@@ -36,9 +36,11 @@ public class MainActivity extends AppCompatActivity {
                         move();
                     }
                 });
+                //The Below numbers are for the timer, this is used to call every (amount) of time.
+                //Set to 34 = 30FPS (29.41) 17 = 60fps (58.88)
             }
             //To change fps for the app lower the 60 to what ever (Lower is faster)
-        }, 0, 60);
+        }, 0, 34);
 
         }
 

@@ -3,7 +3,7 @@ package com.github.teamunknown;
 import java.util.List;
 
 // This will be the class that runs the asteroid system. eg spawning, increaseing speed/amount and so on...
-public class Asteroids {
+public class Asteroid_System {
 
     // TODO: 02/03/2020 This is just a basic get up. Need to first look into how the system will work
     // This class does nothing right now
