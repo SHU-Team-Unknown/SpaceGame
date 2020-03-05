@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //This is for Testing purposes
-        img = (ImageView) findViewById(R.id.TestImage);
+        //img = (ImageView) findViewById(R.id.TestImage);
 
         //This is used to call every frame
         timer.schedule(new TimerTask() {
@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void run() {
                         //Put things u want to be called every frame
-                        move();
+                        //move();
                     }
                 });
                 //The Below numbers are for the timer, this is used to call every (amount) of time.
