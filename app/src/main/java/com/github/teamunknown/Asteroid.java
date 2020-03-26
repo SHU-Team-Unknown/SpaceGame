@@ -6,6 +6,7 @@ import android.widget.ImageView;
 public class Asteroid {
 
     // TODO: 02/03/2020 I need to look into what will be need for each asteroid. eg image, postion, speed
+    // TODO: 21/03/2020 Dont think I will be useing this class in the future. However just in case will keep it here
     // This class does nothing right now
     private ImageView image;
     private int size;
